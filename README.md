@@ -9,6 +9,7 @@ I am a computer science graduate with experience in Back-end development, Front-
 and Software designing. I have an analytical mind and I take pride in my work, as well as finding elegant<br/>
 solutions to complex problems. My aim is to contribute towards the fields of computer science and<br/>
 software development.<br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fankholor-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="fankholor-sudo" /> </p>
 
