@@ -4,6 +4,12 @@
 <h1 align="center">Hi 👋, I'm Fankholoro</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+<h4>About Me...</h4>
+I am a computer science graduate with experience in Back-end development, Front-end development<br/>
+and Software designing. I have an analytical mind and I take pride in my work, as well as finding elegant<br/>
+solutions to complex problems. My aim is to contribute towards the fields of computer science and<br/>
+software development.<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fankholor-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="fankholor-sudo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </p>
